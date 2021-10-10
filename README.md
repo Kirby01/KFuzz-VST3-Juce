@@ -1,2 +1,2 @@
 # KFuzz-
-Fuzz Effect. Vst3 beta.
+Fuzz Effect. Vst3.
