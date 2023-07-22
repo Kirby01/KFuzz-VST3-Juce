@@ -3,5 +3,5 @@ Fuzz Effect. Vst3.
 Distortion.
 <br><br>
 v1.0 Inital release.<br>
-v1.1 Fixed output symmetry.
+v1.1 Fixed output symmetry.<br>
 <img src="https://github.com/Kirby01/KFuzz-/blob/main/kfuzz.png?raw=true"><br>
